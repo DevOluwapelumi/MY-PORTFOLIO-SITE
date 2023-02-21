@@ -1,0 +1,35 @@
+//    Typing Animation //
+var typed = new Typed(".typing",{
+    strings: ["","Web Developer", "", "Web Designer", "", "Graphic Designer", "", "Forex Trader", "", "Crypto Dealer", "Book Writer", "Business Coach"],
+    typeSpeed:100,
+    BackSpeed:60,
+    loop:true
+})
+
+
+const body = document.querySelector('body'),
+      sidebar = body.querySelector('nav'),
+      toggle = body.querySelector(".toggle"),
+      searchBtn = body.querySelector(".search-box"),
+      modeSwitch = body.querySelector(".toggle-switch"),
+      modeText = body.querySelector(".mode-text");
+
+
+toggle.addEventListener("click" , () =>{
+    sidebar.classList.toggle("close");
+})
+
+searchBtn.addEventListener("click" , () =>{
+    sidebar.classList.remove("close");
+})
+
+modeSwitch.addEventListener("click" , () =>{
+    body.classList.toggle("dark");
+    
+    if(body.classList.contains("dark")){
+        modeText.innerText = "Light mode";
+    }else{
+        modeText.innerText = "Dark mode";
+        
+    }
+});
