@@ -10,7 +10,7 @@ Key Elements of a Portfolio:
 
 Projects or Work Samples: The core of a portfolio is the display of actual projects, pieces of work, or examples that demonstrate the individual's skills and achievements. These can include art pieces, design projects, coding projects, writing samples, and more.
 
-Descriptions and Context: Each project is accompanied by a description that provides context, explains the goals, challenges, and solutions, and highlights the individual's role in the project.
+Descriptions and Context: Each project is accompanied by a description that provides context, explain the goals, challenges, and solutions, and highlights the individual's role in the project.
 
 Visuals and Multimedia: Portfolios often include images, videos, and interactive elements to showcase the work more vividly. These visuals help visitors understand the quality and scope of the projects.
 
@@ -28,11 +28,11 @@ Navigation and Layout: An organized and user-friendly design is crucial. Navigat
 
 Responsive Design: Portfolios should be optimized for different devices and screen sizes, ensuring a consistent experience across desktops, tablets, and mobile phones.
 
-Consistent Branding: If applicable, maintaining a consistent visual identity, color scheme, and typography that align with the individual's personal brand or the field they're in.
+Consistent Branding: If applicable, maintain a consistent visual identity, color scheme, and typography that align with the individual's personal brand or the field they're in.
 
 Types of Portfolios:
 
-Online Portfolios: Most portfolios today are digital and hosted online, often on personal websites. These offer the advantage of being easily accessible by a global audience.
+Online Portfolios: Most portfolios today are digital and hosted online, often on personal websites. These offer the advantage of being easily accessible to a global audience.
 
 Print Portfolios: In some creative fields, a physical portfolio is still used for in-person presentations or interviews. It typically includes printed copies of work samples.
 
