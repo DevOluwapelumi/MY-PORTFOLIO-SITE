@@ -26,7 +26,7 @@ Navigation and Layout: An organized and user-friendly design is crucial. Navigat
 
 Responsive Design: Portfolios should be optimized for different devices and screen sizes, ensuring a consistent experience across desktops, tablets, and mobile phones.
 
-Consistent Branding: If applicable, maintain a consistent visual identity, color scheme, and typography that align with the individual's personal brand or the field they're in.
+Consistent Branding: If applicable, maintain a consistent visual identity, color scheme, and typography that align with the individual's brand or the field they're in.
 
 Types of Portfolios:
 
