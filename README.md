@@ -1,7 +1,6 @@
 # MY-PORTFOLIO-SITE
 I created my portfolio site, though still working on it...
 
-
 A portfolio is a curated collection of an individual's or a professional's work, accomplishments, skills, and experiences. It is a visual and often interactive representation of their capabilities, creativity, and expertise. Portfolios are commonly used by artists, designers, writers, photographers, developers, and professionals in various fields to showcase their work and make a favorable impression on potential clients, employers, or collaborators.
 
 Key Elements of a Portfolio:
