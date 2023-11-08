@@ -95,19 +95,22 @@ ul{
     margin-right: -15px;
     position: relative;
 }
-.btn{
+.btn_3{
     font-size: 16px;
     font-weight: 500;
     padding: 12px 35px;
     color: white;
-    border-radius: 40px;
+    background-color: #07e412;
+    border-radius: 30px;
     display: inline-block;
     white-space: nowrap;
     border: none;
+    text-decoration: none;
+
     background: var(--skin-color);
     transition: all 0.3s ease;
 }
-.btn:hover{
+.btn_3:hover{
     transform: scale(1.05);
 }
 .shadow-dark{
@@ -429,33 +432,33 @@ h3.my-profession{
 .home-img::after{
     content: '';
     position: absolute;
-    width: 412px;
-    height: 522px;
+    width: 100px;
+    height: 100px;
     border-bottom: 10px solid var(--skin-color);
     border-right: 10px solid var(--skin-color);
     animation: animate 3s linear infinite;
-    right: 20px;
-    bottom: -10px;
+    right: 50px;
+    bottom: 10px;
 }
 .home-img::before{
     content: '';
     position: absolute;
-    width: 412px;
-    height: 522px;
+    width: 100px;
+    height: 100px;
     border-top: 10px solid var(--skin-color);
     border-left: 10px solid var(--skin-color);
     animation: animate 3s linear infinite;
-    left: 20px;
-    top: -15px;
+    left: 50px;
+    top: 5px;
 }
-/* @keyframes animate{
+@keyframes animate{
     0%{
-        transform: rotate(0deg);
+        transform: rotate(30deg);
     }
-    100%{
+    50%{
         transform: rotate(360deg);
     }
-} */
+}
 .home .home-img img{
     margin: auto;
     border-radius: 30px;
@@ -702,19 +705,82 @@ h3.my-profession{
     margin-bottom: 30px;
 }
 .portfolio .portfolio-item-inner{
-    
     border-radius: 10px;
     overflow: hidden;
     cursor: pointer;
     margin-bottom: 30px;
 }
+.portfolio .portfolio-item-inner .portfolio-img{
+    border-radius: 10px;
+    position: relative;
+    overflow: hidden;
+}
 .portfolio .portfolio-item-inner .portfolio-img img{
     width: 100%;
-    height: 200px;
+    /* height: 200px; */
     display: block;
+    transition: transform 0.5s;
+}
+.portfolio .portfolio-item-inner .portfolio-img:hover img {
+    transform: scale(1.1);
+}
+.portfolio-img:hover img{
+    transform: scale(1.1);
 }
 .portfolio .portfolio-img video{
-    width: 50oj230px;
+    width: 50px;
+}
+.layer {
+    width: 100%;
+    height: 0;
+    background: linear-gradient(rgba(0,0,0,0.6), #e0ae0a);
+    border-radius: 10px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0 40px;
+    text-align: center;
+    font-size: 14px;
+    transition: height 0.5s;
+}
+.layer h3 {
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+.layer a {
+    margin-top: 20px;
+    color: #ff004f;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 60px;
+    background: #fff;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    text-align: center;
+}
+.portfolio .portfolio-item-inner .portfolio-img:hover .layer {
+    height: 100%;
+}
+.row .btn_1 {
+    display: block;
+    margin: 10px auto;
+    width: fit-content;
+    border: 1px solid #ff004f;
+    padding: 14px 50px;
+    border-radius: 30px;
+    text-decoration: none;
+    background-color: rgb(231, 162, 14);
+    color: #fff;
+    transition: background 0.5s;
+}
+.row .btn_1:hover {
+    background: #0be216;
 }
                                                                          /* Contact */
 .contact-title{
@@ -787,9 +853,25 @@ h3.my-profession{
 .contact .contact-form .form-item textarea.form-control{
     height: 140px;
 }
-.contact .contact-form .btn{
+.contact .contact-form .btn_2{
     height: 50px;
     padding: 0 50px;
+    border-radius: 30px;
+    color: #DDD;
+    background-color: red;
+    transition: background 0.5s;
+}
+.contact .contact-form .btn_2:hover {
+    background: #07e412;
+}
+.copyright {
+    width: 100%;
+    text-align: center;
+    padding: 25px 0;
+    /* background: #262626; */
+    font-weight: 300;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 20px;
 }
 @media(max-width:1199px){
     .aside{
