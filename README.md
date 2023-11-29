@@ -72,9 +72,10 @@ A portfolio is a curated collection of an individual's or a professional's work,
 A portfolio is a versatile tool that can help individuals stand out in their field, communicate their abilities effectively, and open doors to various opportunities. It's a dynamic representation of their journey, skills, and achievements, making it an essential asset for personal and professional growth.
 
 
-Repository Link: https://devoluwapelumi.github.io/MY-PORTFOLIO-SITE/
-Feedback and Collaboration:
+#  Repository Link: 
+https://devoluwapelumi.github.io/MY-PORTFOLIO-SITE/
 
-We are open to feedback and collaboration. Whether you're a beginner seeking guidance, an experienced developer wanting to contribute, or simply interested in my Portfolio, we encourage you to get involved in this community-driven project.
+##  Feedback and Collaboration:  
+  We are open to feedback and collaboration. Whether you're a beginner seeking guidance, an experienced developer wanting to contribute, or simply interested in my Portfolio, we encourage you to get involved in this community-driven project.
 
-Thank you for visiting the Portfolio Code Repository on GitHub. Happy coding!
+#  Thank you for visiting the Portfolio Code Repository on GitHub. Happy coding!
