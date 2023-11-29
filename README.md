@@ -38,15 +38,19 @@ A portfolio is a curated collection of an individual's or a professional's work,
 ##  Consistent Branding: 
   If applicable, maintain a consistent visual identity, color scheme, and typography that align with the individual's brand or the field they're in.
 
-Types of Portfolios:
+#Types of Portfolios:
 
-Online Portfolios: Most portfolios today are digital and hosted online, often on personal websites. These offer the advantage of being easily accessible to a global audience.
+##  Online Portfolios: 
+  Most portfolios today are digital and hosted online, often on personal websites. These offer the advantage of being easily accessible to a global audience.
 
-Print Portfolios: In some creative fields, a physical portfolio is still used for in-person presentations or interviews. It typically includes printed copies of work samples.
+##  Print Portfolios: 
+  In some creative fields, a physical portfolio is still used for in-person presentations or interviews. It typically includes printed copies of work samples.
 
-Multimedia Portfolios: Portfolios can include a mix of different media, such as images, videos, audio clips, and interactive elements.
+##  Multimedia Portfolios: 
+  Portfolios can include a mix of different media, such as images, videos, audio clips, and interactive elements.
 
-Academic or Professional Portfolios: These focus on showcasing academic achievements, research, publications, and professional experiences in an organized manner.
+##  Academic or Professional Portfolios: 
+  These focus on showcasing academic achievements, research, publications, and professional experiences in an organized manner.
 
 Benefits of a Portfolio:
 
